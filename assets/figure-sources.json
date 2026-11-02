@@ -10,8 +10,8 @@
     "source": "figure/overview.pdf",
     "image": "assets/images/overview.webp",
     "width": 2600,
-    "height": 1062,
-    "bytes": 342902
+    "height": 1046,
+    "bytes": 310592
   },
   {
     "source": "figure/distillation_targets_arxiv.pdf",
@@ -33,6 +33,13 @@
     "width": 1200,
     "height": 287,
     "bytes": 46671
+  },
+  {
+    "source": "figure/logos/monash-university-logo-cropped.png",
+    "image": "assets/images/monash-university.png",
+    "width": 1006,
+    "height": 296,
+    "bytes": 45655
   },
   {
     "source": "figure/logos/microsoft.pdf",
